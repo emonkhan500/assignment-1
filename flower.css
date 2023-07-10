@@ -1,0 +1,37 @@
+body {
+    font-family: Lato;
+}
+
+.banner {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 50px 240px 0px 240px;
+}
+
+h1 {
+
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708;
+}
+
+.banner-description {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.primary-btn {
+    background: #E55473;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    font-size: 20px;
+}
