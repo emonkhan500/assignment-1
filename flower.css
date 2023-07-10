@@ -8,7 +8,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background: rgba(229, 84, 115, 0.10);
-    padding: 50px 240px 0px 240px;
+    padding: 50px 300px 0px 300px;
 }
 
 h1 {
@@ -34,4 +34,41 @@ h1 {
     border-radius: 7px;
     border: none;
     font-size: 20px;
+}
+
+.pri-text {
+    padding: ;
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.off {
+    margin-top: 100px;
+}
+.off-description {
+
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+}
+.text-item {
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+    margin-top: 128px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.emon{
+    text-align: center;
+}
+.dilo{
+    color: #E55473;
 }
