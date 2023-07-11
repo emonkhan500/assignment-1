@@ -37,7 +37,7 @@ h1 {
 }
 
 .pri-text {
-    padding: ;
+
     text-align: center;
     color: #272727;
     font-size: 40px;
@@ -79,17 +79,57 @@ h1 {
 }
 
 .try {
-    width: 80%;
-    height:auto;
-    padding: 0px 240px;
-    align-items: center;
-    display: flex;
-    margin-left: 400px;
-}   
-.column {
-    width: 400px;
-    height: 4500px;
+    padding: 0px 0px 0px 500px;
+    width: 90%;
+    display:flex;
+  gap: 15px;
 }
-.last-item{
-    background-image:url('Flower Asset/Rectangle 9.png');
+
+.try.column {
+    width: 342px;
+    height: 396px;
+    padding-left: 15px;
+
+
+}
+
+.form {
+    width: 700px;
+    height: 64px;
+    border-color: #FFF;
+    border-radius: 8px;
+    background: #FFF;
+    margin-top: 0px;
+}
+
+.lol {
+    color: white;
+}
+
+.end-head {
+    text-align: center;
+    color: #E55473;
+    font-size: 44px;
+    font-weight: 800;
+}
+
+.end-description {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
+.foot {
+    height: 350px;
+    margin-top: 100px;
+    background-color: #111010;
+    padding: 88px 302px 128px 300px;
+}
+
+footer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.40);
 }
