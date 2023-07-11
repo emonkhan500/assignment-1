@@ -206,6 +206,7 @@ h1 {
 .mashfi {
     display: flex;
     justify-content: center;
+    gap: 10px;
 }
 
 .end-head {
