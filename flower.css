@@ -8,7 +8,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background: rgba(229, 84, 115, 0.10);
-    padding: 50px 300px 0px 300px;
+    padding: 50px 250px 0px 250px;
 }
 
 h1 {
@@ -48,6 +48,7 @@ h1 {
 .off {
     margin-top: 100px;
 }
+
 .off-description {
 
     text-align: center;
@@ -56,19 +57,39 @@ h1 {
     font-weight: 400;
     line-height: 30px;
     margin-top: 24px;
+    margin-bottom: 100px;
 }
+
 .text-item {
     display: flex;
-    justify-content:space-around ;
+    justify-content: space-around;
     align-items: center;
     margin-top: 128px;
     height: 620px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
 }
-.emon{
+
+.emon {
     text-align: center;
 }
-.dilo{
+
+.dilo {
     color: #E55473;
+}
+
+.try {
+    width: 80%;
+    height:auto;
+    padding: 0px 240px;
+    align-items: center;
+    display: flex;
+    margin-left: 400px;
+}   
+.column {
+    width: 400px;
+    height: 4500px;
+}
+.last-item{
+    background-image:url('Flower Asset/Rectangle 9.png');
 }
